@@ -7,7 +7,10 @@
 <h2>👨‍💻 Projects:</h2>
 <ul>
   <li>
-    <b><a href="https://github.com/orngmoo/DataRiskAutomator" target="_blank">DataRiskAutomator</a></b> 
+    <b><a href="https://github.com/orngmoo/DataRiskAutomator" target="_blank">Data Risk Automator (Python)</a></b> 
+  </li>
+  <li>
+    <b><a href="https://github.com/orngmoo/MovieRatingSystem" target="_blank">Movie Rating System (Java) </a></b> 
   </li>
 </ul>
 
